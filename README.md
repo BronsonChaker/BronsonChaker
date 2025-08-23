@@ -20,7 +20,7 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/bronsonchaker)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bronsonchaker)
 - 🌐 [Portfolio Website](https://github.com/BronsonChaker) 🛠️ Under Construction 
 
 ---
