@@ -14,6 +14,7 @@ Interested in **web development, software engineering, and system design**
 
 ## Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/bronsonchaker)
+
 [Portfolio Website](https://chaker.dev/)
 
 ---
